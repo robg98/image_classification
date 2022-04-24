@@ -1,4 +1,4 @@
-# image_classification_cnn
+# Image Classification using CNN
 Image Classification with PyTorch
 
 Builded an image classification model (CNN) that will classify images according to whether they contain a cactus or not.
